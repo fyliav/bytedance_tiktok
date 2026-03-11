@@ -1,4 +1,7 @@
 # TikTok Reverse Engineering - Mobile and Web API
+
+https://github.com/int4444/tiktok_algorithms/ <- TikTok Mobile Algorithms
+
 #### Need Premium Solutions? @sequestrer On Telegram
 
 A technical overview of TikTok's internal API security, focusing on the various signature algorithms used to authenticate and protect client-server communication. This document is intended for educational and research purposes.
