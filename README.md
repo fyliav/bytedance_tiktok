@@ -1,6 +1,7 @@
 # TikTok Reverse Engineering - Mobile and Web API
 
-https://github.com/int4444/tiktok_algorithms/ <- TikTok Mobile Algorithms
+### TikTok Latest API https://tikapi.dev/ (Latest Algorithms)
+
 
 #### Need Premium Solutions? @spleenish On Telegram
 
