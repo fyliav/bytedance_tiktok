@@ -1,9 +1,7 @@
 # TikTok Reverse Engineering - Mobile and Web API
 
-### TikTok Latest API https://tikapi.dev/ (Latest Algorithms)
 
-
-#### Need Premium Solutions? @spleenish On Telegram
+#### Need Premium Solutions? @tucar On Telegram
 
 A technical overview of TikTok's internal API security, covering the signature algorithms used to authenticate client-server communication. This repository provides Python implementations for both Mobile and Web signing pipelines, as well as the TTEncrypt layer.
 
